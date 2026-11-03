@@ -1,0 +1,5 @@
+minimumReleaseAgeExclude:
+  - '@hol1kgmg/skills@1.0.0'
+permissions:
+  '@hol1kgmg/skills':
+    skills: true
